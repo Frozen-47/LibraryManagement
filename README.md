@@ -1,12 +1,6 @@
 # Online Library Management System — Weekly SQL Work
 
-An organized weekly MySQL implementation of an Online Library Management System, covering schema design (ERD), DDL, DML, TCL, aggregate functions, and relational joins.
-
-## Entity Relationship Diagram (ERD)
-
-![Library Management ERD](library_management_erd.png)
-
-## Weekly Syllabus & Progress
+This folder contains the SQL work completed through **Week 6**, arranged as separate weekly files following the weekly-file organization of the reference repository.
 
 | Week | Topic |
 |---|---|
